@@ -28,4 +28,4 @@ Files are compiled this way:
 ***$ gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty***
 
 # **Authors**
-[Mbiaha Rodrigue](https://github.com/RodrigueMbiabo)
+[Nashief Robertson Darko, Princes Selasi]
