@@ -1,4 +1,4 @@
-ifndef MONTY_SEEN
+#ifndef MONTY_SEEN
 #define MONTY_SEEN
 
 #include <unistd.h>
